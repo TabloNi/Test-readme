@@ -1,4 +1,3 @@
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -28,6 +27,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTabloNi%2FTest-readme.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTabloNi%2FTest-readme?ref=badge_shield)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -57,6 +57,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTabloNi%2FTest-readme.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTabloNi%2FTest-readme?ref=badge_large)
+
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
